@@ -1,27 +1,27 @@
-## 8. Networks and Security
+## 9. Data Analysis and Databases
 
-### 8.1 Network Protocols
+### 9.1 SQL
 | Aspect                                    | Description                                              |
 |-------------------------------------------|----------------------------------------------------------|
-| TCP/IP                                    | Transmission control protocol/Internet protocol.         |
-| HTTP/HTTPS                                | Hypertext transfer protocol (secure).                    |
-| Routing                                   | Algorithms for path determination.                       |
-| DNS                                       | Domain Name System, resolving names to IP addresses.     |
-| Wireless Protocols                        | WiFi, Bluetooth, etc.                                    |
+| Querying                                  | SELECT statements, joins, grouping.                      |
+| Database Design                           | Normalization, indexing, constraints.                     |
+| Stored Procedures                         | Writing and using stored procedures.                      |
+| Transactions                              | ACID properties, commit, rollback.                       |
 
-### 8.2 Cybersecurity
+
+### 9.2 Data Visualization
 | Aspect                                    | Description                                              |
 |-------------------------------------------|----------------------------------------------------------|
-| Encryption                                | Methods of encrypting data, keys.                        |
-| Authentication                            | User identification, passwords, two-factor authentication.|
-| Firewalls                                 | Security systems, filtering traffic.                      |
-| Malware Protection                        | Antivirus, anti-spyware tools.                           |
-| Ethical Hacking                           | Penetration testing, vulnerability assessment.           |
+| Charts and Graphs                         | Line charts, bar graphs, scatter plots.                   |
+| Tools                                     | Tableau, Power BI, Matplotlib.                            |
+| Interactive Visualization                 | Dashboards, interactive charts.                           |
 
-### 8.3 Encryption
+
+### 9.3 Big Data
 | Aspect                                    | Description                                              |
 |-------------------------------------------|----------------------------------------------------------|
-| Symmetric Encryption                      | Same key for encryption and decryption.                  |
-| Asymmetric Encryption                     | Public and private key pairs.                             |
-| Cryptographic Algorithms                  | RSA, AES, DES, etc.                                      |
-| Key Management                            | Securely handling cryptographic keys.                     |
+| Hadoop                                    | Hadoop ecosystem, HDFS, MapReduce.                        |
+| Spark                                     | In-memory processing, RDDs, DataFrames.                   |
+| Data Lakes                                | Storing large datasets, access controls.                  |
+| Real-Time Processing                      | Kafka, Storm, real-time analytics.                        |
+

@@ -15,7 +15,7 @@ An overview of the available assignments, including categories, levels, and how 
 
 | No. | Topic Area                                      | Description                                                                                           | Programming Languages        |
 |-----|------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------|
-| 1   | [Git/GitHub](#git/github)                      | Version control, collaboration.                                                                       | N/A                          |
+| 1   | [Git/GitHub](./git-github.md)                  | Version control, collaboration.                                                                       | N/A                          |
 | 2   | [Introduction to Programming](#)               | Basics, control structures.                                                                           | Python, Scratch              |
 | 3   | [Algorithms and Data Structures](#)            | Sorting, trees, stacks.                                                                               | C++, Java                    |
 | 4   | [Web Development](#)                           | HTML, CSS, JavaScript.                                                                                | HTML, CSS, JavaScript        |

@@ -15,11 +15,11 @@ An overview of the available assignments, including categories, levels, and how 
 
 | No. | Topic Area                                      | Description                                                                                           | Programming Languages        |
 |-----|------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------|
-| 1   | [Git/GitHub](./git-github.md)                  | Version control, collaboration.                                                                       | N/A                          |
-| 2   | [Introduction to Programming](./introduction-to-programming.md)| Basics, control structures.                                                           | Python, Scratch              |
-| 3   | [Algorithms and Data Structures](./algorithms-and-data-structures.md)| Sorting, trees, stacks.                                                         | C++, Java                    |
-| 4   | [Web Development](./web-development.md)        | HTML, CSS, JavaScript.                                                                                | HTML, CSS, JavaScript        |
-| 5   | [Software Engineering](./software-engineering) | Agile methods, testing.                                                                                | Java, C#                     |
+| 1   | [Git/GitHub](../profile/git-github.md)                  | Version control, collaboration.                                                                       | N/A                          |
+| 2   | [Introduction to Programming](../profile/introduction-to-programming.md)| Basics, control structures.                                                           | Python, Scratch              |
+| 3   | [Algorithms and Data Structures](../profile/algorithms-and-data-structures.md)| Sorting, trees, stacks.                                                         | C++, Java                    |
+| 4   | [Web Development](../profile/web-development.md)| HTML, CSS, JavaScript.                                                                                | HTML, CSS, JavaScript        |
+| 5   | [Software Engineering](../profile/software-engineering) | Agile methods, testing.                                                                                | Java, C#                     |
 | 6   | [AI & Machine Learning](#)                     | Neural networks, NLP.                                                                                 | Python, R                    |
 | 7   | [Operating Systems](#)                         | Process management, file systems.                                                                     | C, Assembly                  |
 | 8   | [Networks and Security](#)                     | Network protocols, encryption.                                                                        | Python, C                    |

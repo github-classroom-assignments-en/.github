@@ -13,6 +13,26 @@
 ### 📚Assignments
 An overview of the available assignments, including categories, levels, and how to access them.
 
+| No. | Topic Area                                      | Description                                                                                           | Programming Languages        |
+|-----|------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------|
+| 1   | [Git/GitHub](#)                                | Version control, collaboration.                                                                       | N/A                          |
+| 2   | [Introduction to Programming](#)               | Basics, control structures.                                                                           | Python, Scratch              |
+| 3   | [Algorithms and Data Structures](#)            | Sorting, trees, stacks.                                                                               | C++, Java                    |
+| 4   | [Web Development](#)                           | HTML, CSS, JavaScript.                                                                                | HTML, CSS, JavaScript        |
+| 5   | [Software Engineering](#)                      | Agile methods, testing.                                                                                | Java, C#                     |
+| 6   | [AI & Machine Learning](#)                     | Neural networks, NLP.                                                                                 | Python, R                    |
+| 7   | [Operating Systems](#)                         | Process management, file systems.                                                                     | C, Assembly                  |
+| 8   | [Networks and Security](#)                     | Network protocols, encryption.                                                                        | Python, C                    |
+| 9   | [Data Analysis and Databases](#)               | SQL, data visualization.                                                                              | SQL, Python                  |
+| 10  | [Human-Computer Interaction](#)                | User interface design, usability testing.                                                             | JavaScript, Swift            |
+| 11  | [Ethics in Computer Science](#)                | Privacy, digital civil rights.                                                                        | N/A                          |
+| 12  | [Mobile Development](#)                        | Android, iOS development.                                                                             | Kotlin, Swift                |
+| 13  | [Game Development](#)                          | Game design, graphics programming.                                                                    | C#, Unity                    |
+| 14  | [Cloud Computing and DevOps](#)                | Virtualization, CI/CD.                                                                                | YAML, Bash                   |
+| 15  | [Hardware and Embedded Systems](#)             | Microcontroller programming, IoT.                                                                     | C, Assembly                  |
+| 16  | [Independent Projects](#)                      | Self-directed projects.                                                                               | Any                          |
+
+
 ### 🚀Getting Started
 Instructions on how to join the organization, participate in projects, or utilize the available assignments.
 
